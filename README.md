@@ -4,9 +4,9 @@ The Urban Routes app is a user interface that provides transportation route sele
 
 ## <b>Mapping at Urban Routes</b>
 
-Requirements Analysis
+<b>Requirements Analysis</b>
 
-FR-4: In address fields, the software shall only allow the user to enter numbers, spaces, dashes, periods, commas, and Latin characters in these fields. The maximum length of each address is 50 characters. Spaces at the beginning and end of addresses will be trimmed when the fields are not in focus. If the user enters invalid data in either field, the software shall display the error message"Incorrect address".
+<b>FR-4:</b> In address fields, the software shall only allow the user to enter numbers, spaces, dashes, periods, commas, and Latin characters in these fields. The maximum length of each address is 50 characters. Spaces at the beginning and end of addresses will be trimmed when the fields are not in focus. If the user enters invalid data in either field, the software shall display the error message"Incorrect address".
 
 Check the input field “From”:
  - Address field allow the user to enter “numbers”
@@ -38,9 +38,9 @@ Check the input field “To”:
 
 ## <b>Carsharing at Urban Routes</b>
 
-Requirements Analysis
+<b>Requirements Analysis</b>
 
-FR-CS32: To order a car, the user must enter the card information and click "Add." There shall be no limit to the number of cards that can be added.
+<b>FR-CS32:</b> To order a car, the user must enter the card information and click "Add." There shall be no limit to the number of cards that can be added.
 
 Check the field are labeled in the card details interface
  - “Add card” button in the interface
@@ -55,7 +55,7 @@ Check the field are labeled in the “Add card” interface
 
 
 
-FR-CS33: The following limits shall be applied to the input fields for card payments: 
+<b>FR-CS33:</b> The following limits shall be applied to the input fields for card payments: 
 
 Field
 Limits
@@ -107,7 +107,7 @@ Check the input field “CVV/CVC”:
  - The "Add" button is inactive if the input length is more than 2 characters.
  - The "Add" button is active if the input length is 2 characters.
 
-FR-CS35: The system shall encrypt card payment details when sending them from the client to the server.
+<b>FR-CS35:</b> The system shall encrypt card payment details when sending them from the client to the server.
 
 Check the encrypt system:
  - Data between client and server is transferred over secure protocols such as HTTPS
