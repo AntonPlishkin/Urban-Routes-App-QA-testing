@@ -2,7 +2,7 @@
 
 The Urban Routes app is a user interface that provides transportation route selection and information on travel time and cost. Users can input their departure and destination, choose from three modes "Optimal," "Fastest," and "Custom",and select different types of transport. The application processes user input, displays routes on the map; also provides error handling for incorrect input.
 
-##<b>Mapping at Urban Routes</b>
+## <b>Mapping at Urban Routes</b>
 
 Requirements Analysis
 
