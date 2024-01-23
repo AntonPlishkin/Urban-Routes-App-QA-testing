@@ -63,6 +63,7 @@ Check the field are labeled in the “Add card” interface
 |             | - The boundary values are 0000 and 9999, inclusive.                                                                                                                          |
 |             | - Spaces between numbers will be automatically added when the field is not in focus.                                                                                         |
 |             | - The "Add" button will remain inactive if the input length is less than 12 characters.                                                                                      |
+|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | CVV/CVC     | - Any input besides numbers is incorrect, so the system will not allow it. No more than 2 characters are allowed. The input format is: nn                                    |
 |             | - The boundary values are 01 and 99, inclusive.                                                                                                                              |
 |             | - The "Add" button will remain inactive if the input length is less than 2 characters.                                                                                       |
