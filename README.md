@@ -8,7 +8,7 @@ The Urban Routes app is a user interface that provides transportation route sele
 
 <b>FR-4:</b> In address fields, the software shall only allow the user to enter numbers, spaces, dashes, periods, commas, and Latin characters in these fields. The maximum length of each address is 50 characters. Spaces at the beginning and end of addresses will be trimmed when the fields are not in focus. If the user enters invalid data in either field, the software shall display the error message"Incorrect address".
 
-Check the input field “From”:
+- Check the input field “From”:
  - Address field allow the user to enter “numbers”
  - Address field allow the user to enter “spaces”
  - Address field allow the user to enter “dashes”
@@ -22,7 +22,7 @@ Check the input field “From”:
  - If the space at the end is not in focus it is cut off
  - An “Incorrect address” error message is displayed if the the user enters invalid data
 
-Check the input field “To”:
+- Check the input field “To”:
  - Address field allow the user to enter “numbers”
  - Address field allow the user to enter “spaces”
  - Address field allow the user to enter “dashes”
